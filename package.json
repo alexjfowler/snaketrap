@@ -1,0 +1,8 @@
+{
+  "name": "snakes",
+  "version": "0.0.1",
+  "description": "The snakes game by Zoulander",
+  "dependencies": {
+    "express": "4.10.2"
+  }
+}
